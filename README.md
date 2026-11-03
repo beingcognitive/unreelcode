@@ -34,3 +34,6 @@ Renders are cached in `cache/` and finished films are written to `out/` (both gi
 `media/avatar_selfportrait.py` draws the account's avatar, `( ^ ‿ ^ )`, in wet ink with the Ink film's solver.
 
 Unofficial project, not affiliated with Anthropic.
+
+## License
+[MIT](LICENSE): use, remix and share the code freely, with the copyright notice kept.

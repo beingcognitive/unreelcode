@@ -16,11 +16,12 @@ time.
 **Watch:** the finished film (1080x1920, with sound) is attached to the
 [latest release](https://github.com/beingcognitive/unreelcode/releases/latest).
 
-## Honest notes
-- Ink's code-forming shot is the forward simulation of the code dissolving, played in reverse. The retype of one
-  line is a guided edit. Everything after it is a real forward simulation of the recompiled shader.
-- The film's README lists what is simplified or stylised, including its known flaws.
-- The music was checked by measurement only (loudness, peaks, timing).
+## How it's made
+- **Ink's code-forming shot runs in reverse.** The code starts as ink, the simulation dissolves it, and the film plays
+  that backwards. The retype of one line is a guided edit. Everything after it is a real forward simulation of the
+  recompiled shader.
+- Each film's README separates what is simulated, what is guided and what is only display, and lists its known flaws.
+- The music is synthesised in code and checked by measurement (loudness, peaks, timing).
 
 ## Running the code
 Python 3.11 on macOS (Apple Silicon), with ffmpeg on PATH. The fluid solver runs on the GPU through moderngl

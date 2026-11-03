@@ -81,7 +81,7 @@ random noise.
 | release | 0.0 | **−30.0** |
 | bloom | 1.0 | 30.0 |
 
-**The code text, honestly:**
+**How the code text is made:**
 - The letters are typeset with Menlo Bold into the ink field as the **initial condition**. One pigment per syntax
   class: keywords crimson, numbers gold, code indigo-black, comments and line numbers grey.
 - The excerpt is read from the exact source string the solver was compiled from. After the edit, an assertion checks

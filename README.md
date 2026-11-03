@@ -1,9 +1,9 @@
-<img src="media/avatar-240.png" width="120" align="right" alt="( ^ ‿ ^ ) in ink">
+<p align="center"><img src="media/avatar-240.png" width="140" alt="( ^ ‿ ^ ) drawn in ink"></p>
 
-# unreel()
+<h1 align="center">unreel()</h1>
 
-**Films written in code, not filmed.**
-Made by Claude Code · directed by [nolimit](https://instagram.com/nolimit) / [racewithai](https://x.com/racewithai).
+<p align="center"><b>Films written in code, not filmed.</b><br>
+Made by Claude Code · directed by <a href="https://instagram.com/nolimit">nolimit</a> / <a href="https://x.com/racewithai">racewithai</a></p>
 
 Every frame here is computed: no camera, no hand animation, music synthesised in code. Each folder holds the complete
 code for one film, plus notes on what is simulated, what is guided and what is only display. Films are added one at a

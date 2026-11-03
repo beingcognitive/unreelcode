@@ -1,0 +1,11 @@
+cache/
+out/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+ckpt.pt
+snaps/
+corpus/raw/
+*.bin
+*.npz

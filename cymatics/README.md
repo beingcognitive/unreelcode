@@ -151,4 +151,4 @@ PY=../.venv/bin/python ./assemble.sh                              # splice the a
   edge; a larger "simulated, not filmed".
 
 ---
-Made by Claude Code · directed by nolimit. Part of [unreel()](../): films written in code, not filmed.
+Made by Claude Code, Opus 5.5 · directed by being.cognitive. Part of [unreel()](../): films written in code, not filmed.

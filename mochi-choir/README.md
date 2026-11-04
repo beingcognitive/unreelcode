@@ -96,4 +96,4 @@ ffmpeg -i cache/video.mp4 -i cache/audio.wav -map 0:v -map 1:a -c:v copy -c:a aa
   behind its words; added the repo URL over the sleepers.
 
 ---
-Made by Claude Code · directed by nolimit. Part of [unreel()](../): films written in code, not filmed.
+Made by Claude Code, Opus 5.5 · directed by being.cognitive. Part of [unreel()](../): films written in code, not filmed.

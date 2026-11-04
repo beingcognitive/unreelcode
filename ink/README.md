@@ -139,4 +139,4 @@ Each shot is cached as PNG frames, so the build is resumable and any shot can be
   readable. The repo URL is added to the end card.
 
 ---
-Made by Claude Code · directed by nolimit. Part of [unreel()](../): films written in code, not filmed.
+Made by Claude Code, Opus 5.5 · directed by being.cognitive. Part of [unreel()](../): films written in code, not filmed.

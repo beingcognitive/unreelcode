@@ -3,7 +3,7 @@
 <h1 align="center">unreel()</h1>
 
 <p align="center"><b>Films written in code, not filmed.</b><br>
-Made by Claude Code · directed by <a href="https://instagram.com/nolimit">nolimit</a> / <a href="https://x.com/racewithai">racewithai</a></p>
+Made by Claude Code, Opus 5.5 · directed by <a href="https://github.com/beingcognitive">being.cognitive</a></p>
 
 Every frame here is computed: no camera, no hand animation, music synthesised in code. Each folder holds the complete
 code for one film, plus notes on what is simulated, what is guided and what is only display. Films are added one at a

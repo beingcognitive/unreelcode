@@ -12,6 +12,7 @@ time.
 | | Film | What it is |
 |---|---|---|
 | <img src="media/2_mochi-choir.jpg" width="120"> | [**The Mochi Choir**](mochi-choir/) | 25 mochi sing Bach's Prelude in C. Every note is a candy landing on a singer's head: 293 throws under real gravity, each solved and checked to land on its own singer exactly on the beat. |
+| <img src="media/cymatics.jpg" width="120"> | [**Cymatics**](cymatics/) | Sand on a vibrating plate and a dish of water, driven at exactly the notes you hear. One short score makes the music and every pattern. Halfway through, the score is edited live, and the sound and the sand change together. |
 | <img src="media/4_ink.jpg" width="120"> | [**Ink**](ink/) | Ink in water gathers into the 107 lines of GLSL that simulate it. One sign is flipped, the shader is recompiled from that text, and the ink rises. |
 
 **Watch:** each film (1080x1920, with sound) is attached to its own [release](https://github.com/beingcognitive/unreelcode/releases).
@@ -19,6 +20,8 @@ time.
 ## How it's made
 - **The Mochi Choir's throws are solved, not animated.** Each candy's flight comes from exact ballistics under Earth
   gravity; only the faces, squish and camera are animation.
+- **Cymatics' water mandala grows from a seeded pattern.** The plate, the sand and the rest of the water are simulated
+  freely from the score, and the live score edits are executed, not pre-baked.
 - **Ink's code-forming shot runs in reverse.** The code starts as ink, the simulation dissolves it, and the film plays
   that backwards. The retype of one line is a guided edit. Everything after it is a real forward simulation of the
   recompiled shader.

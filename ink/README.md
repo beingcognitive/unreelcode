@@ -7,7 +7,7 @@ into the lines of the shader that is simulating it. One value is retyped (`SINK 
 solver is recompiled from exactly that text, and the same letters come apart **upward**, because the ink is now
 lighter than water.
 
-**Watch:** [`ink-v1` release](https://github.com/beingcognitive/unreelcode/releases/tag/ink-v1): 52.5 s, 1080x1920
+**Watch:** [on Instagram](https://www.instagram.com/reel/DfSAZEfxTbF/), or download it from the [`ink-v1` release](https://github.com/beingcognitive/unreelcode/releases/tag/ink-v1): 52.5 s, 1080x1920
 (9:16), 24 fps, with sound. It loops: the last half second dissolves into the first frame.
 
 Every drop, plume and swirl comes from one GPU fragment shader, [`shaders/ink.glsl`](shaders/ink.glsl): **107

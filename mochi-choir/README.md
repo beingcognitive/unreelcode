@@ -7,7 +7,7 @@ tosses a candy for every note, and **every sung note is a candy landing on a sin
 under real gravity and checked to land on its own singer exactly on the beat. Watch for the grandpa, who sleeps
 through everything until bar 18.
 
-**Watch:** [`mochi-choir-v1` release](https://github.com/beingcognitive/unreelcode/releases/tag/mochi-choir-v1):
+**Watch:** [on Instagram](https://www.instagram.com/reel/DfTbOzJRUDC/), or download it from the [`mochi-choir-v1` release](https://github.com/beingcognitive/unreelcode/releases/tag/mochi-choir-v1):
 58 s, 1080x1920 (9:16), 60 fps, with sound. It loops: the last half second dissolves into the first frame.
 
 <br clear="right">

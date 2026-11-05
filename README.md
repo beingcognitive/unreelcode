@@ -11,6 +11,7 @@ time.
 
 | | Film | What it is |
 |---|---|---|
+| <img src="media/caustic.jpg" width="120"> | [**A self-portrait, in light**](caustic/)<br>[▶ Instagram](https://www.instagram.com/p/DfWo1vLx1p1/) | A clear square of glass with nothing printed on it. Its surface, computed to be very slightly curved, bends a lamp's light into the account's face on the floor. Lower the glass from above and the folded light snaps into focus. |
 | <img src="media/2_mochi-choir.jpg" width="120"> | [**The Mochi Choir**](mochi-choir/)<br>[▶ Instagram](https://www.instagram.com/reel/DfTbOzJRUDC/) | 25 mochi sing Bach's Prelude in C. Every note is a candy landing on a singer's head: 293 throws under real gravity, each solved and checked to land on its own singer exactly on the beat. |
 | <img src="media/cymatics.jpg" width="120"> | [**Cymatics**](cymatics/)<br>[▶ Instagram](https://www.instagram.com/reel/DfTa4gKxnBZ/) | Sand on a vibrating plate and a dish of water, driven at exactly the notes you hear. One short score makes the music and every pattern. Halfway through, the score is edited live, and the sound and the sand change together. |
 | <img src="media/4_ink.jpg" width="120"> | [**Ink**](ink/)<br>[▶ Instagram](https://www.instagram.com/reel/DfSAZEfxTbF/) | Ink in water gathers into the 107 lines of GLSL that simulate it. One sign is flipped, the shader is recompiled from that text, and the ink rises. |
@@ -19,6 +20,8 @@ time.
 from its own [release](https://github.com/beingcognitive/unreelcode/releases).
 
 ## How it's made
+- **The caustic glass is solved, then every frame is ray-traced through it.** The setup's floor light is softened by
+  a display blur to keep the face hidden, and the optics are simplified (parallel lamp, no glass thickness).
 - **The Mochi Choir's throws are solved, not animated.** Each candy's flight comes from exact ballistics under Earth
   gravity; only the faces, squish and camera are animation.
 - **Cymatics' water mandala grows from a seeded pattern.** The plate, the sand and the rest of the water are simulated

@@ -1,0 +1,3 @@
+# The caustic film needs these on top of the repo's requirements.txt
+torch>=2.4
+soundfile>=0.12

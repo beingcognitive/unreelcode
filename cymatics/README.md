@@ -7,7 +7,7 @@ note sorts a million grains into its own figure, and the same song makes the wat
 Halfway through, the film shows the score it is playing, edits one note three times, and each edit changes the
 next bar's pitch and the sand's figure together.
 
-**Watch:** [on Instagram](https://www.instagram.com/reel/DfTa4gKxnBZ/), or download it from the [`cymatics-v1` release](https://github.com/beingcognitive/unreelcode/releases/tag/cymatics-v1): 56.8 s,
+**Watch:** [on Instagram](https://www.instagram.com/reel/DfTa4gKxnBZ/), [on YouTube](https://youtube.com/shorts/UJsacCWo8NU), or download it from the [`cymatics-v1` release](https://github.com/beingcognitive/unreelcode/releases/tag/cymatics-v1): 56.8 s,
 1080x1920 (9:16), 30 fps, with sound. It loops: the last half second dissolves into the first frame.
 
 One file, [`score.py`](score.py) (74 lines), is the only source of every pitch you hear and every pattern you

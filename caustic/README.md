@@ -7,7 +7,7 @@ at most, and the curve was computed so that a lamp shining through it draws the 
 light on the floor 50 cm below. Bright patterns like this are called caustics: the same thing as the wobbly lines of
 light on the bottom of a swimming pool, but shaped on purpose.
 
-**Watch:** [on Instagram](https://www.instagram.com/p/DfWo1vLx1p1/), or download it from the [`caustic-v1` release](https://github.com/beingcognitive/unreelcode/releases/tag/caustic-v1):
+**Watch:** [on Instagram](https://www.instagram.com/p/DfWo1vLx1p1/), [on YouTube](https://youtube.com/shorts/avfaR2XjZjk), or download it from the [`caustic-v1` release](https://github.com/beingcognitive/unreelcode/releases/tag/caustic-v1):
 28 s, 1080x1920 (9:16), 30 fps, with sound. It loops: the end card dissolves into the first frame.
 
 <br clear="right">

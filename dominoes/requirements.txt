@@ -1,0 +1,2 @@
+# The domino film needs this on top of the repo's requirements.txt (pinned: contact behaviour can change between versions)
+mujoco==3.17.0

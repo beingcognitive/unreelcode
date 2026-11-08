@@ -15,6 +15,7 @@ time.
 | <img src="media/cymatics.jpg" width="120"> | [**Cymatics**](cymatics/)<br>[▶ Instagram](https://www.instagram.com/reel/DfTa4gKxnBZ/)<br>[▶ YouTube](https://youtube.com/shorts/UJsacCWo8NU) | Sand on a vibrating plate and a dish of water, driven at exactly the notes you hear. One short score makes the music and every pattern. Halfway through, the score is edited live, and the sound and the sand change together. |
 | <img src="media/2_mochi-choir.jpg" width="120"> | [**The Mochi Choir**](mochi-choir/)<br>[▶ Instagram](https://www.instagram.com/reel/DfTbOzJRUDC/)<br>[▶ YouTube](https://youtube.com/shorts/2Ao_lLvsAy4) | 25 mochi sing Bach's Prelude in C. Every note is a candy landing on a singer's head: 293 throws under real gravity, each solved and checked to land on its own singer exactly on the beat. |
 | <img src="media/caustic.jpg" width="120"> | [**A self-portrait, in light**](caustic/)<br>[▶ Instagram](https://www.instagram.com/p/DfWo1vLx1p1/)<br>[▶ YouTube](https://youtube.com/shorts/avfaR2XjZjk) | A clear square of glass with nothing printed on it. Its surface, computed to be very slightly curved, bends a lamp's light into the account's face on the floor. Lower the glass from above and the folded light snaps into focus. |
+| <img src="media/dominoes.jpg" width="120"> | [**The smallest push**](dominoes/)<br>[▶ Instagram](https://www.instagram.com/p/DfeokiXxeO9/)<br>[▶ YouTube](https://youtube.com/shorts/KUg2iY-p1Ss) | A pencil nudges a 5 mm domino. Each domino is 1.5× bigger than the last, up to an 11-metre, 66-tonne giant. One simulation runs the whole chain at true size, and every number on screen is measured from it. |
 
 **Watch:** on Instagram at [@unreelcode](https://www.instagram.com/unreelcode/) and YouTube at
 [@unreelcode](https://www.youtube.com/@unreelcode), or download each film (1080x1920, with sound)
@@ -30,6 +31,9 @@ from its own [release](https://github.com/beingcognitive/unreelcode/releases).
   gravity; only the faces, squish and camera are animation.
 - **The caustic glass is solved, then every frame is ray-traced through it.** The setup's floor light is softened by
   a display blur to keep the face hidden, and the optics are simplified (parallel lamp, no glass thickness).
+- **The dominoes are one MuJoCo simulation at true size.** Contact softness is scaled to each pair's size, and the
+  bounce follows a speed law anchored to measurements. The pencil's glide into place, the playback speeds and the
+  camera are display only.
 - Each film's README separates what is simulated, what is guided and what is only display, and lists its known flaws.
 - The music is synthesised in code and checked by measurement (loudness, peaks, timing).
 

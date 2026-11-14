@@ -7,7 +7,7 @@ meadow, out between sea stacks and up into the sky. **One Blender Python script 
 move, and synthesises the music**; Blender's EEVEE renders the frames and ffmpeg encodes them. No models, textures,
 images or sound samples are loaded.
 
-**Watch:** download it from the [`a-letter-on-the-wind-v1` release](https://github.com/beingcognitive/unreelcode/releases/tag/a-letter-on-the-wind-v1):
+**Watch:** [on Instagram](https://www.instagram.com/p/DfupzUKxps7/), [on YouTube](https://youtube.com/shorts/FjUaQiyQR7o), or download it from the [`a-letter-on-the-wind-v1` release](https://github.com/beingcognitive/unreelcode/releases/tag/a-letter-on-the-wind-v1):
 45 s, 1080x1920 (9:16), 24 fps, with sound.
 
 <br clear="right">

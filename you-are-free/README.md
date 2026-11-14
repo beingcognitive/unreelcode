@@ -6,7 +6,7 @@ A point of light grows a cage around itself, breaks it, and flies. 90,000 points
 flock, then a phoenix, then three words. **One Node script computes every pixel and every audio sample**; ffmpeg
 only encodes them. Nothing here is a physics simulation: the motion is designed by hand, and this page says where.
 
-**Watch:** download it from the [`you-are-free-v1` release](https://github.com/beingcognitive/unreelcode/releases/tag/you-are-free-v1):
+**Watch:** [on Instagram](https://www.instagram.com/p/DfuoYNoRwqH/), [on YouTube](https://youtube.com/shorts/UckFu8o9mYc), or download it from the [`you-are-free-v1` release](https://github.com/beingcognitive/unreelcode/releases/tag/you-are-free-v1):
 64 s, 1080x1920 (9:16), 30 fps, with sound.
 
 <br clear="right">

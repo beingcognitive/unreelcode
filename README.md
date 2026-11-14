@@ -3,7 +3,7 @@
 <h1 align="center">unreel()</h1>
 
 <p align="center"><b>Films written in code, not filmed.</b><br>
-Made by Claude Code, Opus 5.5 · directed by <a href="https://github.com/beingcognitive">being.cognitive</a></p>
+Made by Claude Code (Opus 5.5, then Fable 5.2) · directed by <a href="https://github.com/beingcognitive">being.cognitive</a></p>
 
 Every frame here is computed: no camera, no hand animation, music synthesised in code. Each folder holds the complete
 code for one film, plus notes on what is simulated, what is guided and what is only display. Films are added one at a
@@ -16,6 +16,7 @@ time.
 | <img src="media/2_mochi-choir.jpg" width="120"> | [**The Mochi Choir**](mochi-choir/)<br>[▶ Instagram](https://www.instagram.com/reel/DfTbOzJRUDC/)<br>[▶ YouTube](https://youtube.com/shorts/2Ao_lLvsAy4) | 25 mochi sing Bach's Prelude in C. Every note is a candy landing on a singer's head: 293 throws under real gravity, each solved and checked to land on its own singer exactly on the beat. |
 | <img src="media/caustic.jpg" width="120"> | [**A self-portrait, in light**](caustic/)<br>[▶ Instagram](https://www.instagram.com/p/DfWo1vLx1p1/)<br>[▶ YouTube](https://youtube.com/shorts/avfaR2XjZjk) | A clear square of glass with nothing printed on it. Its surface, computed to be very slightly curved, bends a lamp's light into the account's face on the floor. Lower the glass from above and the folded light snaps into focus. |
 | <img src="media/dominoes.jpg" width="120"> | [**The smallest push**](dominoes/)<br>[▶ Instagram](https://www.instagram.com/p/DfeokiXxeO9/)<br>[▶ YouTube](https://youtube.com/shorts/KUg2iY-p1Ss) | A pencil nudges a 5 mm domino. Each domino is 1.5× bigger than the last, up to an 11-metre, 66-tonne giant. One simulation runs the whole chain at true size, and every number on screen is measured from it. |
+| <img src="media/you-are-free.jpg" width="120"> | [**You are free**](you-are-free/) | A point of light grows a cage around itself, breaks it, and flies. 90,000 points of light become a flock, a phoenix, then three words. One Node script computes every pixel and every audio sample. Not a simulation: the motion is designed by hand. |
 
 **Watch:** on Instagram at [@unreelcode](https://www.instagram.com/unreelcode/) and YouTube at
 [@unreelcode](https://www.youtube.com/@unreelcode), or download each film (1080x1920, with sound)
@@ -34,6 +35,8 @@ from its own [release](https://github.com/beingcognitive/unreelcode/releases).
 - **The dominoes are one MuJoCo simulation at true size.** Contact softness is scaled to each pair's size, and the
   bounce follows a speed law anchored to measurements. The pencil's glide into place, the playback speeds and the
   camera are display only.
+- **You are free is not a simulation.** Its lights follow hand-designed springs, a flow field and a rigged bird; its
+  README says where every choice is. It is the first film here made by Fable 5.2, and the only one written in Node.
 - Each film's README separates what is simulated, what is guided and what is only display, and lists its known flaws.
 - The music is synthesised in code and checked by measurement (loudness, peaks, timing).
 

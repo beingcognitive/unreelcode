@@ -1,0 +1,2 @@
+# The pendulum film needs this on top of the repo's requirements.txt (pinned for mjcheck.py, the independent check)
+mujoco==3.17.0
